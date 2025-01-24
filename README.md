@@ -1,12 +1,13 @@
 # João - Developer in Progress 🚀
 
-Hello! My name is João, and I'm beginning my journey in the world of programming. Currently, I live in Sweden 🇸🇪 and am exploring various technologies to develop my skills. In my free time, I enjoy watching YouTube videos 📺, playing video games 🎮, watching series or movies 🎬, and browsing social media 📱.
+Hello! My name is João, and I'm progressing in my journey through the world of programming. Currently, I live in Sweden 🇸🇪 and am exploring various technologies to develop my skills. In my free time, I enjoy watching YouTube videos 📺, playing video games 🎮, watching series or movies 🎬, and browsing social media 📱.
 
 ## 🚀 Skills
 
 - **Languages**: JavaScript (beginner to intermediate level)
 - **Test Automation Tools**: I have experience with **Cypress** 🐞, **Postman** 📬, and **Selenium** 🕸️, though I'm still honing my skills in these tools.
-- **Front-End Development**: Currently learning front-end development 🌐, and you can find some related projects in my repository.
+- **Front-End Development**: Completed a front-end development course 🌐, and you can find some related projects in my repository.
+- **Back-End Development**: Currently enrolled in a back-end development course 🔧 to expand my knowledge and skills.
 - **Continuous Learning**: I'm always looking to learn more about programming and software development 📚.
 
 ## 📚 Projects
@@ -24,4 +25,3 @@ Feel free to reach out or connect with me on LinkedIn (https://www.linkedin.com/
 ---
 
 Thank you for visiting! 😊
-
